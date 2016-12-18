@@ -18,7 +18,7 @@ public class ConnectionFactory {
 	
 	public Connection getConnection(){
 		
-		String url = "jdbc:mysql://localhost:3306/merc97";
+		String url = "jdbc:mysql://merc97.mysql.uhserver.com/merc97";
 		String usuario = "root";
 		String senha = "root";
 		
